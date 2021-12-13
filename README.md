@@ -1,7 +1,7 @@
 - 👋 Hi, I’m _Greg_
 - 👀 I’m interested in: OOP, Database Design and Development, Web Applications, OpenSource.
 - 🌱 I'm currently a __Computer Information Systems Student__ and will be attempting to earn my BS in Software Development.
-- 💞️ I’m looking to collaborate on: ANYTHING! I want to work with people who consider themselves experts in their areas, I want to learn from you, work on projects with you, and most of all make connections in tis field!
+- 💞️ I’m looking to collaborate on: ANYTHING! I want to work with people who consider themselves experts in their areas, I want to learn from you, work on projects with you, and most of all make connections in this field!
 - 📫 How to reach me: 
   - :octocat: [GH](https://www.github.com/greg0rys)
   - 📧shenefeltgregory@gmail.com
